@@ -111,3 +111,80 @@ That's kind of the point.
 │   RANDOM THINGS WE HAD TO BUILD                     │
 │                                                     │
 └─────────────────────────────────────────────────────┘
+
+## ⚙ Our Toolbox
+
+We don't pick technologies because they're fashionable.
+
+We pick whatever helps turn an idea from
+
+**"this would be cool"**
+
+into
+
+**"wait... it actually works."**
+
+### Languages
+
+`C++` · `Python` · `JavaScript` · `TypeScript` · `HTML` · `CSS`
+
+### Frameworks & Libraries
+
+`React` · `Next.js` · `FastAPI` · `Streamlit` · `OpenCV` · `MediaPipe`
+
+### AI / ML
+
+`PyTorch` · `YOLO` · `LangChain` · `Computer Vision` · `Machine Learning`
+
+### Infrastructure & Tools
+
+`Git` · `GitHub` · `Docker` · `Vercel` · `Render`
+
+<br>
+
+> The stack changes.
+>
+> The curiosity doesn't.
+
+---
+
+## ✦ How We Think
+
+### Build before overthinking.
+
+Ideas become clearer once they're real.
+
+### Make things we'd actually use.
+
+If we wouldn't use it ourselves, why build it?
+
+### Experiment freely.
+
+Not everything needs to become a product.
+
+Some things just need to exist.
+
+### Keep it interesting.
+
+Technical doesn't have to mean boring.
+
+### Ship it.
+
+A rough working project teaches more than a perfect idea sitting in a notes app.
+
+---
+
+## ⌁ Currently Building
+
+There's always something happening behind the scenes.
+
+```text
+→ tools we'd actually use ourselves
+
+→ experiments that probably shouldn't work
+
+→ ideas that started way too late at night
+
+→ projects that don't have a name yet
+
+→ things we're building just to see what happens
