@@ -1,37 +1,113 @@
-**“Why did we build this?”**
+<div align="center">
 
-Why are you even questioning it?
-You build… just to tear things apart.
-You create… just to call it useless.
+# WHY DID WE BUILD THIS?
 
-Think.
+### because someone had to.
 
-Everyone around you waits—waits for perfect ideas, perfect timing, perfect meaning.
-And while they wait… they build nothing.
+We make software, experiments, tools, and questionable ideas  
+that somehow become real projects.
 
-We don’t.
+<br>
 
-We outlast that hesitation.
-We outgrow that fear.
+[ **EXPLORE PROJECTS** ](https://github.com/WhyDidWeBuildThis?tab=repositories)
+&nbsp;&nbsp;&nbsp;
+[ **WHAT'S NEXT →** ](https://github.com/WhyDidWeBuildThis/To-Do)
 
-You think this is pointless? That it doesn’t matter?
+<br><br>
 
-Look around.
-Most things people call “important” fade away anyway.
-Trends die. Systems break. Ideas disappear.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:333333&height=100&section=header" width="100%"/>
 
-But creation?
+</div>
 
-Creation stays.
+---
 
-Even the weird things.
-Even the broken things.
-Even the things no one believed in.
+## ✦ What is this?
 
-So years from now—when all the “perfect” ideas are forgotten…
+**WhyDidWeBuildThis** is a place for ideas that refuse to stay ideas.
 
-**What will they have?**
+Sometimes there's a problem worth solving.
 
-And more importantly—
+Sometimes there's a concept we can't stop thinking about.
 
-**what will you have built?**
+Sometimes we just want to find out if we can build it.
+
+So we build.
+
+No giant roadmap.  
+No unnecessary meetings.  
+No pretending every project needs a business model.
+
+Just **good ideas, questionable ideas, and the occasional idea that turns out to be surprisingly useful.**
+
+---
+
+## ◇ Things We've Built
+
+A growing collection of projects, experiments, and things we thought would be cool to make.
+
+<br>
+
+### [`WebInit`](https://github.com/WhyDidWeBuildThis/WebInit)
+
+**A developer-focused project that makes starting new web projects less repetitive.**
+
+Pick a stack.
+
+Run a command.
+
+Start building.
+
+`TYPESCRIPT` · `DEVELOPER TOOL` · `OPEN SOURCE`
+
+<br>
+
+> One less thing to set up.
+>
+> One more thing to build.
+
+---
+
+## ⌁ What's Next?
+
+We already have more ideas waiting in the queue.
+
+Some are being built.  
+Some are being planned.  
+Some are still in the **"this could actually be cool"** phase.
+
+We've put the list somewhere public:
+
+### [`→ See what we're building next`](https://github.com/WhyDidWeBuildThis/To-Do)
+
+That's our **living To-Do list** — projects we'll be working on, experimenting with, and hopefully shipping.
+
+<br>
+
+> The list changes.
+>
+> Ideas get added.
+>
+> Projects get crossed out.
+>
+> Occasionally, something completely unexpected appears.
+
+---
+
+## ◎ What We Build
+
+We don't really have a single category.
+
+That's kind of the point.
+
+```text
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│   AI & MACHINE LEARNING                             │
+│   DEVELOPER TOOLS                                   │
+│   WEB EXPERIENCES                                   │
+│   AUTOMATION                                        │
+│   COMPUTER VISION                                   │
+│   EXPERIMENTAL PROJECTS                             │
+│   RANDOM THINGS WE HAD TO BUILD                     │
+│                                                     │
+└─────────────────────────────────────────────────────┘
