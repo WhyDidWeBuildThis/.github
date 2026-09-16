@@ -2,7 +2,7 @@
 
 # WHY DID WE BUILD THIS?
 
-### because someone had to.
+### Because someone had to.
 
 We make software, experiments, tools, and questionable ideas  
 that somehow become real projects.
